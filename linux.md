@@ -1,5 +1,9 @@
 # Linux commands
 
+## Cheat Sheets ❤️
+
+https://sheet.shiar.nl - great, visual resource with keyboard maps
+
 ## Disk utilities
 
 ```
